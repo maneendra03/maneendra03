@@ -1,89 +1,176 @@
-<h1 align="center">Hi, I'm Maneendra Gudipally 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+production-grade+web+apps;React+%7C+TypeScript+%7C+Spring+Boot+%7C+Next.js;%22Whatever+you+do%2C+do+it+well.%22+%E2%80%93+Walt+Disney" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Maneendra%20Gudipally&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20things%20that%20work&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=00C9A7&center=true&vCenter=true&width=650&lines=Whatever+you+do%2C+do+it+well.+%E2%80%94+Walt+Disney;React+%2B+TypeScript+%7C+Spring+Boot+%7C+Next.js;Turning+ideas+into+shipped+products" />
+
+<p>
+<a href="https://linkedin.com/in/maneendra-gudipally-886528272"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/-Email-00C9A7?style=flat-square&logo=maildotru&logoColor=white"/></a>
+<a href="https://github.com/maneendra03"><img src="https://img.shields.io/github/followers/maneendra03?label=Follow&style=social"/></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/maneendra-gudipally-886528272"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!-- Optional: add portfolio badge here if you have one -->
-</p>
+</div>
 
----
+<br>
 
-### 🧭 About Me
+## `> whoami`
 
-- 🔭 I build **full-stack platforms** — from healthcare and e-commerce to civic-tech and NLP research projects
-- ⚙️ Comfortable across the stack: **React/Next.js + TypeScript** on the frontend, **Spring Boot/Node.js** on the backend
-- 🧠 Genuinely curious about applying ML/NLP to real-world problems (resume screening, poem generation)
-- 🌱 Always shipping — 27 public repos and counting
-- 💬 *"Whatever you do, do it well."* — Walt Disney
+```
+┌──────────────────────────────────────────────────────────┐
+│  I build full-stack products end to end — healthcare      │
+│  tools, e-commerce platforms, civic-tech, and a bit of    │
+│  NLP/ML on the side when a problem calls for it.          │
+│                                                             │
+│  Currently shipping: [what you're building right now]     │
+│  Currently exploring: [what you're learning right now]    │
+└──────────────────────────────────────────────────────────┘
+```
 
----
+<br>
 
-### 🛠️ Tech Stack
+## `> tech_stack`
+
+<div align="center">
 
 **Languages**
-<p>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=ts,js,py,java&theme=dark" />
 
 **Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-</p>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
 
-**Backend & Database**
-<p>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white">
-</p>
+**Backend & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,mongodb,supabase&theme=dark" />
 
-**Tools & Platforms**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-</p>
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma&theme=dark" />
 
----
+</div>
 
-### 🚀 Featured Projects
+<br>
 
-| Project | Description | Stack |
-|---|---|---|
-| **[PharmaCare](https://github.com/maneendra03/PharmaCare)** | Medication management platform — reminders, family sharing, medicine donation, adherence rewards | React, TypeScript, Spring Boot, PostgreSQL, JWT/OAuth2 |
-| **[Anvima-web](https://github.com/maneendra03/Anvima-web)** | E-commerce platform for customized gifts — Razorpay payments, admin dashboard, sales analytics | Next.js, TypeScript, MongoDB, Cloudinary |
-| **[cofix](https://github.com/maneendra03/cofix)** | Civic-tech platform connecting citizens with local authorities via an interactive issue map | Next.js, TypeScript, Leaflet |
-| **[JOB_BOARD](https://github.com/maneendra03/JOB_BOARD)** | Personal job tracker that auto-fetches listings daily with a Kanban board | Next.js, Supabase, Vercel Cron |
-| **[Automated-Resume-Screening-Using-NLP](https://github.com/maneendra03/Automated-Resume-Screening-Using-NLP)** | Resume-to-job-description semantic matching using S-BERT + cosine similarity | Python, SQLite |
-| **[CNN-Based-Poem-Learning](https://github.com/maneendra03/CNN-Based-Poem-Learning-Interpretation-Inspired-by-Human-Rote-Learning-)** | Hybrid CNN-RNN architecture mimicking human rote learning for poetry | Python |
+## `> featured_projects`
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 GitHub Stats
+### 🩺 PharmaCare
+Medication management platform — reminders, family sharing, medicine donation & adherence rewards.
+- **Stack:** React, TypeScript, Spring Boot, PostgreSQL, JWT/Google OAuth2
+- 🔗 [View Project](https://github.com/maneendra03/PharmaCare)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maneendra03&show_icons=true&theme=tokyonight&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maneendra03&theme=tokyonight" height="165">
-</p>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneendra03&layout=compact&theme=tokyonight" height="165">
-</p>
+### 🎁 Anvima-web
+E-commerce platform for customized gifts with product customization, payments & analytics.
+- **Stack:** Next.js, TypeScript, MongoDB, Razorpay, Cloudinary
+- 🔗 [View Project](https://github.com/maneendra03/Anvima-web)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maneendra03&style=flat-square&color=blue" alt="profile views" />
-</p>
+### 🏙️ cofix
+Civic-tech platform connecting citizens with local authorities via a live issue-reporting map.
+- **Stack:** Next.js, TypeScript, Leaflet
+- 🔗 [View Project](https://github.com/maneendra03/cofix)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 JOB_BOARD
+Personal job tracker that auto-fetches Software Engineer listings daily into a Kanban board.
+- **Stack:** Next.js, Supabase, Vercel Cron
+- 🔗 [View Project](https://github.com/maneendra03/JOB_BOARD)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 Resume Screening w/ NLP
+Semantic resume-to-job matching using S-BERT and cosine similarity.
+- **Stack:** Python, SQLite
+- 🔗 [View Project](https://github.com/maneendra03/Automated-Resume-Screening-Using-NLP)
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ CNN Poem Learning
+Hybrid CNN–RNN architecture modeling human rote learning for poetry generation.
+- **Stack:** Python
+- 🔗 [View Project](https://github.com/maneendra03/CNN-Based-Poem-Learning-Interpretation-Inspired-by-Human-Rote-Learning-)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `> github_analytics`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maneendra03&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maneendra03&theme=chartreuse-dark&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneendra03&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
+
+</div>
+
+<!--
+SNAKE ANIMATION SETUP (optional, looks great):
+1. Add this file at .github/workflows/snake.yml in your maneendra03/maneendra03 repo:
+
+name: generate snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: maneendra03
+          outputs: dist/github-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+2. After it runs once, add this line below:
+<img src="https://raw.githubusercontent.com/maneendra03/maneendra03/output/github-snake.svg" />
+-->
+
+<br>
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/maneendra-gudipally-886528272"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-00C9A7?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br><br>
+
+*"Whatever you do, do it well."* — Walt Disney
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%"/>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=maneendra03&style=flat-square&color=00c9a7" /></p>
